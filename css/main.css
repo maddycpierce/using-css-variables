@@ -1,12 +1,11 @@
 :root {
   --color-primary: #f39;
-  --border-radius: 14px 0 14px;
+  --border-radius: 14px 0 14px 0;
   --font-primary: sans-serif;
-  --font-secondary: "Roboto Slab", sans serif;
+  --font-secondary: "Roboto Slab", sans-serif;
 }
 
 html {
-  font-family: sans-serif;
   font-family: var(--font-primary);
 }
 
